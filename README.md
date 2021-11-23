@@ -1,11 +1,11 @@
-##SETUP
+## SETUP
 pyenv local 3.8.12<br>
 pip install Flask<br>
 export FLASK_APP=main<br>
 flask run<br>
 
 
-##HOSTING OWN SERVER
+## HOSTING OWN SERVER
 
 check if behind nat with tracert ---- && traceroute -4 122.161.66.248
 
